@@ -10,6 +10,9 @@ public class Main {
 		System.out.println("老员工员工提交代码");
 		System.out.println("老员工员工再次提交代码");
 		System.out.println("新员工员工提交代码");
+		
+		
+		System.out.println("新员工分支提交代码");
 
     }
 }
